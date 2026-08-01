@@ -20,9 +20,7 @@ Excel-based operational analysis, Python, SQL, and Tableau.
 Analyzed approximately 792,000 Divvy trip records to compare
 member and casual rider behavior.
 
-- [GitHub Repository](LINK_REPOSITORY)
-- [Interactive Tableau Dashboard](LINK_TABLEAU)
-- [Executive Presentation](LINK_PDF)
+- [GitHub Repository](https://github.com/Achimedes28/cyclistic-bike-share-analysis)
 
 ## Currently Learning
 
