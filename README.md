@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rama
 
-<!--
-**Achimedes28/Achimedes28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with experience in data reconciliation,
+Excel-based operational analysis, Python, SQL, and Tableau.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and Pandas
+- SQL
+- Microsoft Excel
+- Tableau
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+
+## Featured Project
+
+### Cyclistic Bike-Share Analysis
+
+Analyzed approximately 792,000 Divvy trip records to compare
+member and casual rider behavior.
+
+- [GitHub Repository](LINK_REPOSITORY)
+- [Interactive Tableau Dashboard](LINK_TABLEAU)
+- [Executive Presentation](LINK_PDF)
+
+## Currently Learning
+
+- Advanced SQL
+- Tableau dashboard design
+- Business and data analysis
