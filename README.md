@@ -1,7 +1,8 @@
-# Hi, I'm Rama
+# Novaldi Ramadhan Waluyo (Rama)
 
-Aspiring Data Analyst with experience in data reconciliation,
-Excel-based operational analysis, Python, SQL, and Tableau.
+Data analytics and operations professional with experience in
+transaction monitoring, reconciliation, operational reporting,
+and business process analysis.
 
 ## Skills
 
