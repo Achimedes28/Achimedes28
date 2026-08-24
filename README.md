@@ -27,4 +27,4 @@ Processed and analyzed approximately 792,000 historical Divvy trip records to un
 * Preparing for Master's Degree studies in Data Science / Analytics.
 
 ## 📫 Connect with me
-* **LinkedIn:** [Novaldi Ramadhan Waluyo](TULIS_LINK_LINKEDIN_DI_SINI)
+* **LinkedIn:** [Novaldi Ramadhan Waluyo](https://www.linkedin.com/in/novaldi/)
