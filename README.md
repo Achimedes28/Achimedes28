@@ -1,19 +1,30 @@
 <div align="center">
 
 # Hi there, I'm Novaldi Ramadhan Waluyo (Rama) 👋
-### 📊 Data & Operations Analyst | Informatics Graduate (B.Sc)
+### 📊 Data Analyst | Data Operations Analyst | Transaction Reconciliation
+**Bandung, Indonesia** • [LinkedIn](https://www.linkedin.com/in/novaldi/) • [Email](mailto:novaldiramadhan28@gmail.com) • [GitHub Portfolio](https://github.com/Achimedes28?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novaldi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Novaldi%20Ramadhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novaldi/)
 [![Email](https://img.shields.io/badge/Email-novaldiramadhan28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novaldiramadhan28@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Achimedes28?tab=repositories)
+[![Location](https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bandung)
 
 <br/>
 
 <p align="center">
-  <em>Data Analyst with a B.Sc. in Informatics from Telkom University. Specializing in high-volume transaction analysis, operational SLA diagnostics, Pareto revenue optimization, and interactive business intelligence dashboard engineering. Passionate about transforming noisy raw event streams into actionable, high-ROI business strategies.</em>
+  <em>Data-focused professional with nearly <strong>3 years of hands-on experience</strong> in high-volume digital transaction operations, reconciliation, SLA monitoring, and error-pattern investigation. Proven track record managing operational pipelines processing <strong>~99,000 daily transactions</strong> across 45+ B2B partners. Computer Science graduate from Telkom University combining operational domain expertise with structured SQL querying, Python analytics, and interactive BI storytelling.</em>
 </p>
 
 </div>
+
+---
+
+## 💼 Core Operational & Analytical Expertise
+
+* **High-Volume Transaction Monitoring:** Overseeing operational and database dashboards covering **~99,000 daily digital transactions**, identifying real-time anomalies, timeout spikes, and recurring error patterns.
+* **Reconciliation & Mismatch Investigation:** Cross-validating internal switchboard records against downstream biller/partner settlement logs, isolating discrepancy causes, and preparing executive review reporting.
+* **Vendor SLA & Risk Diagnostics:** Quantifying success/failure rates, vendor SLA compliance thresholds, and failure concentrations to support IT escalation and vendor renegotiation.
+* **Commercial & Inventory Control:** Maintaining partner deposits, inventory stock balances, selling price, COGS, and promotional pricing models.
+* **Advanced Spreadsheet Modeling:** Daily power-user of Excel & Google Sheets (PivotTables, XLOOKUP, SUMIFS/COUNTIFS, multi-file reconciliation lookups, automated validation checks).
 
 ---
 
@@ -21,55 +32,77 @@
 
 <div align="center">
 
-| Domain | Technologies & Tools |
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Data Processing & ETL** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
-| **Core Competencies** | `Data Cleaning & Anonymization` • `Exploratory Data Analysis (EDA)` • `Pareto 80/20 Analysis` • `Vendor SLA & Risk Diagnostics` • `Data Storytelling` • `Executive Presentation Design` |
+| **Languages & Querying** | ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Data Processing & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-Pivot%20%26%20XLOOKUP-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data%20Validation-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
+| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-Executive%20Dashboards-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-DAX%20Modeling-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Chart.js](https://img.shields.io/badge/Chart.js-Interactive%20Web-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Seaborn-11557C?style=flat-square) |
+| **Operational Methods** | `Transaction Reconciliation` • `Error-Pattern Root Cause Analysis` • `Pareto 80/20 Demand Analysis` • `SLA Gap Analysis` • `Partner Deposit Control` • `Mismatch Detection` |
 
 </div>
 
 ---
 
-## 🚀 Featured Analytics Projects
+## 🚀 Featured Projects & Research
 
 ### 💳 1. [Fintech & PPOB Transaction Operations Analytics](https://github.com/Achimedes28/fintech-ppob-transaction-operations-analytics)
-> **High-Volume Transaction Analysis, Vendor SLA Bottlenecks, Pareto Concentration & Smart Routing Strategy**
+> **High-Volume Transaction Analysis, Vendor SLA Bottlenecks, Pareto Concentration & Smart Fallback Routing**
 
 * **Scale:** Analyzed **316,376 live financial transactions** across 46 B2B partners, 31 upstream billers, and 318 SKUs.
-* **Key Findings:** Uncovered an overall 89.84% success rate and discovered that **60.9% of all platform failures (19,585 errors) originated from just two vendors (`Biller_29` and `Biller_26`)**.
-* **Pareto Concentration:** Proved that the top 5 SKUs drive 57.0% of total volume, while certain high-demand SKUs (`TNP23`) suffered a critical 22.75% failure rate.
-* **Deliverables:** Standalone Interactive BI Dashboard, 10-Slide Executive PowerPoint Deck, Indexed SQLite Database, Advanced SQL Queries (CTEs, Window Functions), and Power BI DAX Blueprint.
+* **Key Findings:** Diagnosed an 89.84% baseline success rate and uncovered that **60.9% of all platform failures (19,585 errors) originated from just two vendors (`Biller_29` and `Biller_26`)**.
+* **Pareto Concentration:** Identified that the top 5 SKUs generate 57.0% of total volume, with certain high-demand SKUs (`TNP23`) suffering a severe 22.75% failure rate.
+* **Deliverables:** Standalone Interactive BI Dashboard, 10-Slide Executive PowerPoint Deck, Indexed SQLite Database, Advanced SQL Queries (CTEs, Window Functions), and Power BI DAX Modeling Guide.
 * **Tech Stack:** `Python` `Pandas` `SQL` `SQLite` `Chart.js` `Tailwind CSS` `python-pptx` `Power BI DAX`
 
 ---
 
-### 🚴 2. [Cyclistic Bike-Share Case Study](https://github.com/Achimedes28/cyclistic-bike-share-analysis)
+### 🔬 2. [Gas Pipeline Anomaly Detection Using Ensemble Learning](https://github.com/Achimedes28) *(IEEE ICICyTA 2024)*
+> **Published Peer-Reviewed Research Paper on Sensor Anomaly Classification**
+
+* **Scope:** Analyzed **61,313 gas-pipeline sensor records**, engineered temporal features, and addressed severe class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
+* **Machine Learning Pipeline:** Trained and optimized Random Forest, Gradient Boosting, and Soft Voting Ensemble classifiers using Python and `scikit-learn`.
+* **Impact:** Achieved **~90% Accuracy and 90% F1-score** in predicting pipeline pressure and flow anomalies; accepted and presented at the IEEE-affiliated **ICICyTA 2024 International Conference**.
+* **Tech Stack:** `Python` `Scikit-Learn` `SMOTE` `Ensemble Learning` `Data Mining`
+
+---
+
+### 🚴 3. [Cyclistic Bike-Share Case Study](https://github.com/Achimedes28/cyclistic-bike-share-analysis)
 > **Customer Segmentation & Conversion Marketing Analysis**
 
-* **Scale:** Processed and analyzed **~792,000 historical Divvy trip records** using SQL and Python.
-* **Key Findings:** Uncovered behavioral patterns and usage duration contrasts between annual subscribers (utility/commute riders) and casual pass holders (leisure/weekend riders).
-* **Business Impact:** Formulated targeted digital marketing and promotion schedules designed to convert casual riders into high-LTV annual members.
-* **Tech Stack:** `SQL` `Python` `Tableau` `Exploratory Data Analysis` `Marketing Strategy`
+* **Scale:** Processed and analyzed **~792,000 historical Divvy trip records** from Q1 2019 and Q1 2020.
+* **Key Findings:** Uncovered distinct behavioral and ride-duration contrasts between annual subscribers (utility/commute riders) and casual pass holders (weekend/leisure riders).
+* **Business Impact:** Formulated targeted digital marketing strategies and seasonal campaign schedules to convert casual riders into high-LTV annual members.
+* **Tech Stack:** `SQL` `Python` `Pandas` `Tableau` `EDA` `Marketing Strategy`
 
 ---
 
-### ⌚ 3. [Bellabeat Smart Device Usage Trends](https://github.com/Achimedes28/Bellabeat-Smart-Device-Analysis)
+### ⌚ 4. [Bellabeat Smart Device Usage Trends](https://github.com/Achimedes28/Bellabeat-Smart-Device-Analysis)
 > **Consumer Activity Trends & Wellness Tech Growth Strategy**
 
-* **Scale:** Extracted and cleaned multi-tier Fitbit biometric and activity datasets (daily activity, sleep duration, hourly intensity).
-* **Key Findings:** Identified distinct user drop-off points during workweeks and formulated smart-notification engagement campaigns.
+* **Scale:** Extracted, cleaned, and aggregated multi-tier Fitbit biometric activity and sleep data using SQL (SQLite).
+* **Key Findings:** Segmented users by sedentary hours, peak activity windows, and sleep cycles, identifying prime intervention points for smart-notification retention campaigns.
 * **Deliverables:** Executive Tableau dashboards mapping daily step counts against caloric expenditure and sleep quality.
-* **Tech Stack:** `SQL` `Tableau` `Microsoft Excel` `Consumer Behavior Analytics`
+* **Tech Stack:** `SQL (SQLite)` `Tableau` `Microsoft Excel` `Behavioral Segmentation`
 
 ---
 
-## 🏆 Certifications & Education
+## 🏆 Work Experience
 
-* **B.Sc. in Informatics (Computer Science)** — *Telkom University* (GPA: 3.48 / 4.00)
-* **Google Data Analytics Professional Certificate** — *Coursera / Google*
-* **Google Cybersecurity Professional Certificate** — *Coursera / Google*
+* **Partner Service Officer / Data Operations** — *SLTR Group* (Nov 2023 – Present)
+  * Monitored ~99k daily digital transactions, prepared bi-weekly reconciliation reports, investigated transaction mismatches, and managed commercial datasets (deposits, inventory, COGS, pricing).
+* **System Analyst Intern** — *DISKOMINFO Salatiga* (Jul 2023 – Aug 2023)
+  * Analyzed public service workflows, developed process flowcharts, gathered stakeholder requirements, and optimized government service procedures.
+
+---
+
+## 🎓 Education & Certifications
+
+* **Bachelor of Computer Science (Informatics)** — *Telkom University* (2020 – 2024 | GPA: **3.48 / 4.00**)
+* **Google Data Analytics Professional Certificate** — *Coursera by Google* (Aug 2026)
+* **Google AI Professional Certificate** — *Coursera by Google* (Aug 2026)
+* **Excel for Data Analyst** — *YEC Yureka Edukasi Cipta* (Dec 2025)
+* **IELTS Academic — Band 6.0 (CEFR B2 Upper-Intermediate)** — *IDP Education* (Feb 2026)
+* **Conference Presenter & Author** — *ICICyTA 2024 IEEE-Affiliated International Conference*
 
 ---
 
@@ -77,8 +110,9 @@
 
 * 💼 **LinkedIn:** [linkedin.com/in/novaldi](https://www.linkedin.com/in/novaldi/)
 * 📧 **Email:** [novaldiramadhan28@gmail.com](mailto:novaldiramadhan28@gmail.com)
-* 📍 **Location:** Indonesia (Open to Remote / On-Site Data & Operations Analyst Opportunities)
+* 📱 **Phone / WhatsApp:** +62 851 7325 9013
+* 📍 **Location:** Bandung, Indonesia (Open to Data Analyst & Data Operations Analyst roles)
 
 <div align="center">
-  <sub>Designed with ❤️ by Novaldi Ramadhan Waluyo</sub>
+  <sub>© 2026 Novaldi Ramadhan Waluyo. Built with passion for data-driven operations.</sub>
 </div>
