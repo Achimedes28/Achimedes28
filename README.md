@@ -23,11 +23,12 @@ SQL (SQLite) · Python (pandas, NumPy, scikit-learn, matplotlib, seaborn) · Exc
 
 ### [Fintech PPOB Transaction Operations Analytics](https://github.com/Achimedes28/fintech-ppob-transaction-operations-analytics)
 
-Analysis of 316,376 masked transactions from a PPOB switching gateway (46 partners, 31 billers, 318 SKUs).
+Analysis of 316,376 masked transactions from a PPOB switching gateway (46 partners, 31 billers, 294 SKUs).
 
 - Success rate was 89.84%. Two billers produced 60.9% of all failures while handling only 19.6% of traffic, so failures were a vendor problem rather than a capacity problem.
+- Found a data-quality issue: the same SKU appeared in upper and lower case (`XDG1` and `xdg1`); lower-case codes failed 34.9% of the time vs 10.0%.
 - The top 5 SKUs carried 57% of volume. One of them (`TNP23`) failed 22.8% of the time.
-- Recommended fallback routing when a biller's error rate passes a threshold, retries for top SKUs, and SLA clauses for the two worst billers.
+- The two worst billers' SKUs have no alternative supplier in the data, so the first recommendation is a backup biller, followed by success-rate targets and retries for top SKUs.
 - **Tools:** SQL, Python, Power BI, HTML dashboard, PowerPoint
 
 ### [E-Commerce Customer Segmentation and Cohort Retention](https://github.com/Achimedes28/ecommerce-customer-segmentation-cohort-analysis)
@@ -60,8 +61,8 @@ Google Data Analytics capstone using about 792,000 Divvy trips from Q1 2019 and 
 
 Google Data Analytics case study on Fitbit data from 35 users.
 
-- 40% of users were sedentary (under 5,000 steps a day), and activity peaked at lunch and in the early evening.
-- Recommended positioning products around small daily habits and timing campaigns before activity peaks.
+- Excluding days the tracker was not worn (13% of days), about a third of users (12 of 34) averaged under 5,000 steps; Tuesday was the least active day.
+- Recommended positioning products around small daily habits, using low-activity days for reminders, and leading with comfort.
 - **Tools:** SQL (SQLite), Power BI, Tableau
 
 ## Experience
